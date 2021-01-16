@@ -20,7 +20,7 @@ Skrip untuk mendownload lagu/album/playlist ke file mp3. Skrip ini adalah pening
 # cloning source code
 git clone https://github.com/tfkhdyt/SpotifyDL.git
 
-# buka folder uvc
+# buka folder SpotifyDL
 cd SpotifyDL
 
 # jalankan installer

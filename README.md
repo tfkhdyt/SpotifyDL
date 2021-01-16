@@ -1,6 +1,6 @@
 # Spotify Downloader
-Skrip untuk mendownload lagu/album/playlist ke file mp3.
-Skrip ini berdasar dari script <a href="https://github.com/SwapnilSoni1999/spotify-dl">spotify-dl</a> milik <a href="https://github.com/SwapnilSoni1999">SwapnilSoni1999</a>
+Skrip untuk mendownload lagu/album/playlist ke file mp3.<br>
+Skrip ini adalah peningkatan dari skrip <a href="https://github.com/SwapnilSoni1999/spotify-dl">spotify-dl</a> milik <a href="https://github.com/SwapnilSoni1999">SwapnilSoni1999</a> dengan tampilan yang lebih mudah digunakan pada Termux.
 <p align=center>
 <img src="https://img.shields.io/badge/Created%20by-tfkhdyt-blue?style=for-the-badge&logo=github"/><br>
 <a href="Https://facebook.com/tfkhdyt142"><img height="30" src="https://www.pinclipart.com/picdir/big/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png"></a>&nbsp;
@@ -11,9 +11,6 @@ Skrip ini berdasar dari script <a href="https://github.com/SwapnilSoni1999/spoti
 <a href="https://open.spotify.com/playlist/4JR5wqcnuOQw6ppF38Vpu9?si=zHMKBfCiRrGVamKsL8LXqQ"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png"></a>
 </p>
 
-## Disclaimer
-Saya tidak menjamin video yang kalian convert ukurannya akan menjadi lebih kecil, karena hasil akhir akan sangat berpengaruh dari video asli. Jadi jangan heran jika suatu saat size hasil convert malah lebih besar dari size video asli 
-
 ## Requirements
 - `Termux`
 - `git (pkg install git)`
@@ -21,55 +18,32 @@ Saya tidak menjamin video yang kalian convert ukurannya akan menjadi lebih kecil
 
 ## Instalasi
 ```Shell
-# mengizinkan termux mengakses storage
-termux-setup-storage
-# kemudian pilih y
-
 # cloning source code
-git clone https://github.com/tfkhdyt/uvc.git
+git clone https://github.com/tfkhdyt/SpotifyDL.git
 
 # buka folder uvc
-cd uvc
+cd SpotifyDL
 
 # jalankan installer
 ./install.sh
 
 # mulai script dengan mengetik command berikut
-uvc
+sdl
 
 # cara force stop script ini yaitu dengan tekan tombol ctrl + c
 ```
-Atau apabila Anda tetap kesusahan dengan step di atas, Anda bisa menonton video di tutorialnya di bawah ini
-[![Tonton video](https://i.postimg.cc/9Q9J94G9/0001-15359273786-20210110-174645-0000.png)](https://youtu.be/TSUz2b3ZgIw)
 
 ## Uninstall
-##### Cara baru
 `
-uninstall-uvc
+uninstall-sdl
 `
-##### Cara lama
-```Shell
-cd ~
-sed -i '/uvc/d' .zshrc
-sed -i '/uvc/d' ../usr/etc/bash.bashrc
-rm -rf uvc/
-$SHELL
-```
 
 ## Update
-##### Cara baru
-`update-uvc`
-
-##### Cara lama
-```Shell
-cd ~/uvc
-git pull
-```
+`update-sdl`
 
 ## Screenshot
 <a href="https://postimg.cc/VdqbqK98" target="_blank"><img src="https://i.postimg.cc/VdqbqK98/Screenshot-2021-01-10-08-27-04-76-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-27-04-76-84d3000e3f4017145260f7618db1d683" height=100/></a> <a href="https://postimg.cc/s1ZWXjv1" target="_blank"><img src="https://i.postimg.cc/s1ZWXjv1/Screenshot-2021-01-10-08-27-32-06-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-27-32-06-84d3000e3f4017145260f7618db1d683" height=100/></a> <a href="https://postimg.cc/bZLDMdFV" target="_blank"><img src="https://i.postimg.cc/bZLDMdFV/Screenshot-2021-01-10-08-28-01-52-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-28-01-52-84d3000e3f4017145260f7618db1d683" height=100/></a> <a href="https://postimg.cc/21CL2nTB" target="_blank"><img src="https://i.postimg.cc/21CL2nTB/Screenshot-2021-01-10-08-28-17-79-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-28-17-79-84d3000e3f4017145260f7618db1d683" height=100/></a> <a href="https://postimg.cc/QHGTK2Tm" target="_blank"><img src="https://i.postimg.cc/QHGTK2Tm/Screenshot-2021-01-10-08-28-50-61-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-28-50-61-84d3000e3f4017145260f7618db1d683" height=100/></a>
-##### Hasil
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HnCF789w/Screenshot-2021-01-04-20-01-29-24-db51e592e420a9871f4a37915a68789b.jpg' border='0' alt='Screenshot-2021-01-04-20-01-29-24-db51e592e420a9871f4a37915a68789b'/></a>
+
 
 ## Informasi lebih lanjut
 Apabila ada yang mau ditanyakan soal skrip ini, bisa langsung pm saya:

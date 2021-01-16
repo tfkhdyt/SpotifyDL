@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-pkg install figlet ruby
+pkg install figlet ruby ncurses
 gem install lolcat
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/SwapnilSoni1999/spotify-dl/master/tools/termux.sh)"
 echo "alias sdl='cd ~/SpotifyDL && bash sdl.sh'" >> ~/.zshrc

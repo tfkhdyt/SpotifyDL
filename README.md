@@ -1,6 +1,5 @@
 # Spotify Downloader
-Skrip untuk mendownload lagu/album/playlist ke file mp3.<br>
-Skrip ini adalah peningkatan dari skrip <a href="https://github.com/SwapnilSoni1999/spotify-dl">spotify-dl</a> milik <a href="https://github.com/SwapnilSoni1999">SwapnilSoni1999</a> dengan tampilan yang lebih mudah digunakan pada Termux.
+Skrip untuk mendownload lagu/album/playlist ke file mp3. Skrip ini adalah peningkatan dari skrip <a href="https://github.com/SwapnilSoni1999/spotify-dl">spotify-dl</a> milik <a href="https://github.com/SwapnilSoni1999">SwapnilSoni1999</a> dengan tampilan yang lebih mudah digunakan pada Termux.
 <p align=center>
 <img src="https://img.shields.io/badge/Created%20by-tfkhdyt-blue?style=for-the-badge&logo=github"/><br>
 <a href="Https://facebook.com/tfkhdyt142"><img height="30" src="https://www.pinclipart.com/picdir/big/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png"></a>&nbsp;

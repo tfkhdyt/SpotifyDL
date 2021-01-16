@@ -6,4 +6,5 @@ sed -i '/sdl/d' ../usr/etc/bash.bashrc
 rm -rf SpotifyDL/
 cd ~
 echo "Proses uninstall sukses!"
+sleep 3
 $SHELL

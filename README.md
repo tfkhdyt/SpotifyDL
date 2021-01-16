@@ -41,8 +41,7 @@ uninstall-sdl
 `update-sdl`
 
 ## Screenshot
-<a href="https://postimg.cc/VdqbqK98" target="_blank"><img src="https://i.postimg.cc/VdqbqK98/Screenshot-2021-01-10-08-27-04-76-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-27-04-76-84d3000e3f4017145260f7618db1d683" height=100/></a> <a href="https://postimg.cc/s1ZWXjv1" target="_blank"><img src="https://i.postimg.cc/s1ZWXjv1/Screenshot-2021-01-10-08-27-32-06-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-27-32-06-84d3000e3f4017145260f7618db1d683" height=100/></a> <a href="https://postimg.cc/bZLDMdFV" target="_blank"><img src="https://i.postimg.cc/bZLDMdFV/Screenshot-2021-01-10-08-28-01-52-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-28-01-52-84d3000e3f4017145260f7618db1d683" height=100/></a> <a href="https://postimg.cc/21CL2nTB" target="_blank"><img src="https://i.postimg.cc/21CL2nTB/Screenshot-2021-01-10-08-28-17-79-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-28-17-79-84d3000e3f4017145260f7618db1d683" height=100/></a> <a href="https://postimg.cc/QHGTK2Tm" target="_blank"><img src="https://i.postimg.cc/QHGTK2Tm/Screenshot-2021-01-10-08-28-50-61-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-10-08-28-50-61-84d3000e3f4017145260f7618db1d683" height=100/></a>
-
+<a href="https://postimg.cc/wynY8KsX" target="_blank"><img src="https://i.postimg.cc/wynY8KsX/Screenshot-2021-01-16-10-03-26-93-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-16-10-03-26-93-84d3000e3f4017145260f7618db1d683" height=100/></a> <a href="https://postimg.cc/tnPQ9rhL" target="_blank"><img src="https://i.postimg.cc/tnPQ9rhL/Screenshot-2021-01-16-10-03-39-98-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2021-01-16-10-03-39-98-84d3000e3f4017145260f7618db1d683" height=100/></a> 
 
 ## Informasi lebih lanjut
 Apabila ada yang mau ditanyakan soal skrip ini, bisa langsung pm saya:

@@ -1,7 +1,6 @@
-# Ultra Video Converter
-Skrip untuk mengonversi video ke codec x265 dengan mudah menggunakan Termux.
-Dengan codec x265, dapat membuat size videomu berkurang sampai ±50% tanpa mengurangi kualitas video.
-Skrip ini memudahkan kalian untuk menjalankan command ffmpeg tanpa harus menulis command yang panjang.
+# Spotify Downloader
+Skrip untuk mendownload lagu/album/playlist ke file mp3.
+Skrip ini berdasar dari script <a href="https://github.com/SwapnilSoni1999/spotify-dl">spotify-dl</a> milik <a href="https://github.com/SwapnilSoni1999">SwapnilSoni1999</a>
 <p align=center>
 <img src="https://img.shields.io/badge/Created%20by-tfkhdyt-blue?style=for-the-badge&logo=github"/><br>
 <a href="Https://facebook.com/tfkhdyt142"><img height="30" src="https://www.pinclipart.com/picdir/big/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png"></a>&nbsp;
